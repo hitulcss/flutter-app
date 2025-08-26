@@ -1,0 +1,1 @@
+  enum CourseLangType { english, hindi, both } 

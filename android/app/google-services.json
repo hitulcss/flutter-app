@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "633168368670",
+    "firebase_url": "https://sdcampus-d00f3-default-rtdb.firebaseio.com",
+    "project_id": "sdcampus-d00f3",
+    "storage_bucket": "sdcampus-d00f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633168368670:android:b29cb9ce561b39a87c8a0f",
+        "android_client_info": {
+          "package_name": "com.sdcampus.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633168368670-phaq2rinlflpp5rsicho8macr3v5ambv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdcampus.app",
+            "certificate_hash": "c947e4748a9a7894747c6d4d466f91a20c0309f5"
+          }
+        },
+        {
+          "client_id": "633168368670-ut3kggvjdkbont3bn9uqcviat0r73msp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdcampus.app",
+            "certificate_hash": "fb860c02ca8cef43b2e0bd6c8079a7d6bbdd8245"
+          }
+        },
+        {
+          "client_id": "633168368670-58emst5flr6che4ufcnhqup6kj4ghlvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdAqL59EQHzcrCbj3up4_C0zqGMR1nekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633168368670-58emst5flr6che4ufcnhqup6kj4ghlvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633168368670-0pi7dgcchs544l2n7e92uqus7mraqc4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdempire.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633168368670:android:76bcc508f75300b77c8a0f",
+        "android_client_info": {
+          "package_name": "com.sdcampus.parents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633168368670-8hgjmiqt1egvashtpa7lkb9und1dq5r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdcampus.parents",
+            "certificate_hash": "62111f218b63983e909098f796f6a913378a8f9e"
+          }
+        },
+        {
+          "client_id": "633168368670-ilmtbkua5nq3tu77hscsrmqr2u6r0t0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdcampus.parents",
+            "certificate_hash": "c2b3db56b93224699490d58c1f209159e8d85855"
+          }
+        },
+        {
+          "client_id": "633168368670-58emst5flr6che4ufcnhqup6kj4ghlvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdAqL59EQHzcrCbj3up4_C0zqGMR1nekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633168368670-58emst5flr6che4ufcnhqup6kj4ghlvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633168368670-0pi7dgcchs544l2n7e92uqus7mraqc4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdempire.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

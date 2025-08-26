@@ -1,0 +1,16 @@
+enum FeatureEnum {
+  myDownloads,
+  myorders,
+  shortLearning,
+  bookMarks,
+  mySchedule,
+  ourResult,
+  resource,
+  about,
+  referandEarn,
+  wallet,
+  helpandSupport,
+  dailyNews,
+  termandSupport,
+  privacy,
+}
